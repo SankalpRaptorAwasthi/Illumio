@@ -128,7 +128,5 @@ python LogsGenerator.py
 ### Additional Notes
 
 - Case Insensitivity: Protocol and tag lookups are case-insensitive.
-
 - Data Size Handling: Designed to efficiently process large logs while skipping malformed entries.
-
 - Log Generator: Use flow_log_generator.py to create synthetic logs for testing.
