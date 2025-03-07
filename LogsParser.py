@@ -2,6 +2,7 @@ import csv
 import sys
 from collections import defaultdict
 
+
 # Mapping protocol names to their respective protocol numbers based on IANA standards
 PROTOCOL_NAME_TO_NUMBER = {
     'icmp': 1,
