@@ -1,3 +1,5 @@
+#Testing the log with mass Logs enteries 
+
 import random
 import time
 
